@@ -11,8 +11,8 @@ Title	Name
 Team Leader	Harshad.C
 Team Member 1	Jayanthan.B
 Team Member 2	Aswin .B
-Team Member 3	Jithin Suresh .J
-Team Member 4	Jijin Suresh .J
+Team Member 3	Jithin Suresh .E
+Team Member 4	Jijin Suresh .E
 Required Skills :
 Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot Tux, the Linux mascot
 
