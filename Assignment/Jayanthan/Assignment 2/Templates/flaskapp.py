@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 25 16:53:16 2022
-@author: Riyaz
-"""
+
 
 from flask import *
 
